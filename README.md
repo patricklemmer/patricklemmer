@@ -8,11 +8,13 @@
 
 ### Hi there 👋
 
-#### My name is Patrick and I am a self-taught/bootcamp grad fullstack developer from Germany. I am currently focused on landing a full-time, remote, entry level role as fullstack developer. 
+#### My name is Patrick, and I am a self-taught and bootcamp-educated full-stack developer from Germany.
 
-#### Working WITH developers for about four years, has made me realise that I want to BE a developer. That's why I made the decision to, use my experience from various positions in operations, and dedicate all my time, money, and efforts, to becoming a fullstack developer.
+#### I am currently focused on landing a full-time, remote, entry-level role as a full-stack developer.
 
-#### I have always, and yes I mean always, been good at working on things until they do what they are supposed to do. When others stopped digging in monotone and lengthy pieces of technical documentation, I keep going until I find what I need. As a wildlife photographer I am used to sitting through long periods of time, waiting for that one moment, which by the way often doesn't even happen. But, that has made me a very patient person.
+#### Working WITH developers for about four years, has made me realise that I want to BE a developer. That's why I made the decision to leverage my experience from various operations positions and devote all my time, money, and efforts to becoming a full-stack developer.
+
+#### I have always, and yes I mean always, been good at working on things until they do what they are supposed to do. When others may give up after facing monotonous and lengthy technical documentation, I persist until I find what I need or know what I need to know. As a wildlife photographer I am used to sitting through long periods of time, waiting for that one moment, which by the way often doesn't even happen. But, that has made me a very patient person, which I benefit from quite often.
 
 #### Here are some more things about me:
 
