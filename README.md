@@ -15,15 +15,15 @@
 
 #### Here are some more things about me:
 
-#### - 🔭 I’m currently working on: A fullstack MERN app. I have decided to use TypeScript for this project, because I would like to 
+#### - 🔭 I’m currently working on: A fullstack MERN app. I have also decided to use TypeScript for this project, as I would like to become familiar with it. 
 
 #### - 🌱 I’m currently learning: TypeScript and the MERN stack in general (see my #buildinpublic project (currently still planning stuff - will create a repo soon))
 
-#### - 👯 I’m looking to collaborate on: I would love to start contributing to an open source project.
+#### - 👯 I’m looking to collaborate on: I would love to start contributing to an open source project. Being new to this, I am still trying to figure out how that works.
 
 #### - 🤔 I’m looking for help with: As I am currently searching for an entry level role as fullstack developer, I am always happy to receive any tips on open roles or companies that are hiring.
 
-#### - ⚡ Fun fact:
+#### - ⚡ Fun fact: 
 
 #### - 📫 How to reach me: You can get hold of me on [LinkedIn](https://www.linkedin.com/in/patricklemmer/), [Twitter](https://twitter.com/patrick_lemmer), through my [website](https://patricklemmer.dev/) or via email at patricklemmerdev@gmail.com
 
