@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/patrick_lemmer)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=purple)](https://www.instagram.com/patrick_lemmer/)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black)](https://medium.com/@patricklemmer)
+[![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/@patricklemmer)
 
 ### Hi there 👋
 
