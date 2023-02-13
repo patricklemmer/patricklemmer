@@ -8,27 +8,27 @@
 
 ### Hi there 👋
 
-#### My name is Patrick, and I am a self-taught and bootcamp-educated full-stack developer from Germany.
+##### My name is Patrick, and I am a self-taught and bootcamp-educated full-stack developer from Germany.
 
-#### I am currently focused on landing a full-time, remote, entry-level role as a full-stack developer.
+##### I am currently focused on landing a full-time, remote, entry-level role as a full-stack developer.
 
-#### Working WITH developers for about four years, has made me realise that I want to BE a developer. That's why I made the decision to leverage my experience from various operations positions and devote all my time, money, and efforts to becoming a full-stack developer.
+##### Working WITH developers for about four years, has made me realise that I want to BE a developer. That's why I made the decision to leverage my experience from various operations positions and devote all my time, money, and efforts to becoming a full-stack developer.
 
-#### I have always, and yes I mean always, been good at working on things until they do what they are supposed to do. Even when facing monotonous and lengthy technical documentation, I persist until I find what I need or know what I need to know. As a wildlife photographer I am used to sitting through long periods of time, waiting for that one moment where an animal appears in front of me, which by the way often doesn't even happen. But, that has made me a very patient and focused person, which I benefit from a lot when coding.
+##### I have always, and yes I mean always, been good at working on things until they do what they are supposed to do. Even when facing monotonous and lengthy technical documentation, I persist until I find what I need or know what I need to know. As a wildlife photographer I am used to sitting through long periods of time, waiting for that one moment where an animal appears in front of me, which by the way often doesn't even happen. But, that has made me a very patient and focused person, which I benefit from a lot when coding.
 
-#### Here are some more things about me:
+##### Here are some more things about me:
 
-#### - 🔭 I’m currently working on: A fullstack MERN app. I have also decided to use TypeScript for this project, as I would like to become familiar with it. 
+##### - 🔭 I’m currently working on: A fullstack MERN app. I have also decided to use TypeScript for this project, as I would like to become familiar with it. 
 
-#### - 🌱 I’m currently learning: TypeScript and the MERN stack in general (see my #buildinpublic project (currently still planning stuff - will create a repo soon))
+##### - 🌱 I’m currently learning: TypeScript and the MERN stack in general (see my #buildinpublic project (currently still planning stuff - will create a repo soon))
 
-#### - 👯 I’m looking to collaborate on: I would love to start contributing to an open source project. Being new to this, I am still trying to figure out how that works.
+##### - 👯 I’m looking to collaborate on: I would love to start contributing to an open source project. Being new to this, I am still trying to figure out how that works.
 
-#### - 🤔 I’m looking for help with: As I am currently searching for an entry level role as fullstack developer, I am always happy to receive any tips on open roles or companies that are hiring.
+##### - 🤔 I’m looking for help with: As I am currently searching for an entry level role as fullstack developer, I am always happy to receive any tips on open roles or companies that are hiring.
 
-#### - ⚡ Fun fact: I am currently planning my next photographic trip to Bialowieza, Poland later this year. Alaska, Dovrefjell, Okavango Delta, Ellesmere Island and the Carpathian Mountains are the other destinations on my photographic bucket list.
+##### - ⚡ Fun fact: I am currently planning my next photographic trip to Bialowieza, Poland later this year. Alaska, Dovrefjell, Okavango Delta, Ellesmere Island and the Carpathian Mountains are the other destinations on my photographic bucket list.
 
-#### - 📫 How to reach me: You can get hold of me on [LinkedIn](https://www.linkedin.com/in/patricklemmer/), [Twitter](https://twitter.com/patrick_lemmer), through my [website](https://patricklemmer.dev/) or via email at patricklemmerdev@gmail.com
+##### - 📫 How to reach me: You can get hold of me on [LinkedIn](https://www.linkedin.com/in/patricklemmer/), [Twitter](https://twitter.com/patrick_lemmer), through my [website](https://patricklemmer.dev/) or via email at patricklemmerdev@gmail.com
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
