@@ -14,7 +14,7 @@
 
 #### Working WITH developers for about four years, has made me realise that I want to BE a developer. That's why I made the decision to leverage my experience from various operations positions and devote all my time, money, and efforts to becoming a full-stack developer.
 
-#### I have always, and yes I mean always, been good at working on things until they do what they are supposed to do. When others may give up after facing monotonous and lengthy technical documentation, I persist until I find what I need or know what I need to know. As a wildlife photographer I am used to sitting through long periods of time, waiting for that one moment, which by the way often doesn't even happen. But, that has made me a very patient person, which I benefit from quite often.
+#### I have always, and yes I mean always, been good at working on things until they do what they are supposed to do. Even when facing monotonous and lengthy technical documentation, I persist until I find what I need or know what I need to know. As a wildlife photographer I am used to sitting through long periods of time, waiting for that one moment where an animal appears in front of me, which by the way often doesn't even happen. But, that has made me a very patient and focused person, which I benefit from a lot when coding.
 
 #### Here are some more things about me:
 
