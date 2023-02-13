@@ -26,7 +26,7 @@
 
 #### - 🤔 I’m looking for help with: As I am currently searching for an entry level role as fullstack developer, I am always happy to receive any tips on open roles or companies that are hiring.
 
-#### - ⚡ Fun fact: Bialowieza, Alaska, Dovrefjell, Okavango Delta, Ellesmere Island and the Carpathian Mountains are the top destinations on my photographic bucket list.
+#### - ⚡ Fun fact: I am currently planning my next photographic trip to Bialowieza, Poland later this year. Alaska, Dovrefjell, Okavango Delta, Ellesmere Island and the Carpathian Mountains are the other destinations on my photographic bucket list.
 
 #### - 📫 How to reach me: You can get hold of me on [LinkedIn](https://www.linkedin.com/in/patricklemmer/), [Twitter](https://twitter.com/patrick_lemmer), through my [website](https://patricklemmer.dev/) or via email at patricklemmerdev@gmail.com
 
