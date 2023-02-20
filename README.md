@@ -32,6 +32,7 @@
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you should create a GitHub profile README &lpar;as a job seeking dev&rpar;](https://dev.to/patricklemmer/why-you-should-create-a-github-profile-readme-as-a-job-seeking-dev-1e86)
 - [#buildinpublic: A fullstack MERN application &lpar;with TypeScript&rpar;](https://dev.to/patricklemmer/buildinpublic-a-fullstack-mern-application-with-typescript-4a2d)
 - [How to use a custom domain on GitHub pages](https://dev.to/patricklemmer/how-to-use-a-custom-domain-on-github-pages-3fbk)
 - [Connect your contact form to an email account — with HTML only &lpar;Simple, quick, and beginner friendly&rpar;](https://dev.to/patricklemmer/connect-your-contact-form-to-an-email-account-with-html-only-simple-quick-and-beginner-friendly-4j6j)
